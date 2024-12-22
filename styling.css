@@ -65,14 +65,14 @@ body {
   }
   
   .subtitle {
-    font-size: 18px;
+    font-size: 20px;
     color: #000000;
     background-color: #ffcc00;
     display: inline-block;
     box-sizing: border-box;
     padding: 5px;
     margin: 0; 
-    line-height: 1.2;
+    line-height: 1.5;
   }
   
   .header-right {
@@ -91,7 +91,7 @@ body {
     margin-bottom: 70px;
     margin-top: 0px;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 5px;
     
     color: black;
   }
@@ -138,8 +138,9 @@ body {
   }
   
   .info-card {
-    background: #ffffff30;
+    background: #f1eeee;
     padding: 20px;
+    color: #000000;
     border-radius: 10px;
     width: 200px;
     text-align: center;
